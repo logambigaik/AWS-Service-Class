@@ -50,12 +50,20 @@
   
   ![image](https://user-images.githubusercontent.com/54719289/109046079-5bdc5500-76fa-11eb-810f-cc4ea02804dc.png)
   
-  Add Policy:
+  Add Policy and CLick Create Role:
   
   ![image](https://user-images.githubusercontent.com/54719289/109046405-b5448400-76fa-11eb-85dc-7cbf9c4f4bb8.png)
 
+  ![image](https://user-images.githubusercontent.com/54719289/109046730-179d8480-76fb-11eb-9e53-5e1ecd77575d.png)
   
+  Now Role is created,
+  
+  ![image](https://user-images.githubusercontent.com/54719289/109046897-4287d880-76fb-11eb-924f-9a3c0ed66f40.png)
 
+
+# Lambda creation:
+
+![image](https://user-images.githubusercontent.com/54719289/109046897-4287d880-76fb-11eb-924f-9a3c0ed66f40.png)
 
 
   
