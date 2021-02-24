@@ -59,11 +59,25 @@
   Now Role is created,
   
   ![image](https://user-images.githubusercontent.com/54719289/109046897-4287d880-76fb-11eb-924f-9a3c0ed66f40.png)
+  
+  Also include AWSLambdaBasicExecutionRole to avoid 403 issue while creating function:
+  ![image](https://user-images.githubusercontent.com/54719289/109052887-2471a680-7702-11eb-8a15-f2be6f7664af.png)
+
 
 
 # Lambda creation:
 
 ![image](https://user-images.githubusercontent.com/54719289/109046897-4287d880-76fb-11eb-924f-9a3c0ed66f40.png)
+
+![image](https://user-images.githubusercontent.com/54719289/109049799-aeb80b80-76fe-11eb-9410-78808d90b233.png)
+
+  Create Function 
+  
+![image](https://user-images.githubusercontent.com/54719289/109050026-f76fc480-76fe-11eb-84b3-961ab42a36be.png)
+
+  Without AWSLambdaBasicExecutionRole:
+  
+  ![image](https://user-images.githubusercontent.com/54719289/109053108-5e42ad00-7702-11eb-910f-de0ca88996ba.png)
 
 
   
