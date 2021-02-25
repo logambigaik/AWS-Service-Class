@@ -79,6 +79,27 @@
 
 ![image](https://user-images.githubusercontent.com/54719289/109227641-a5a26980-77e6-11eb-9a0d-b4c53ab5257e.png)
 
+
+  Update the function and test:
+  
+ ![image](https://user-images.githubusercontent.com/54719289/109230610-24010a80-77eb-11eb-91b0-7864bb38d28c.png)
+ 
+ Cloudwatch event for our function(default):
+ 
+ ![image](https://user-images.githubusercontent.com/54719289/109230745-5c084d80-77eb-11eb-8319-5ff5cc3d0a87.png)
+
+
+  Click Add Trigger:
+  
+  ![image](https://user-images.githubusercontent.com/54719289/109230822-81955700-77eb-11eb-99a0-2d36ef5939ee.png)
+
+
+  Lambda trigger:
+  
+  ![image](https://user-images.githubusercontent.com/54719289/109231131-01bbbc80-77ec-11eb-87f1-02a9a57060a7.png)
+
+
+
   
 
 
