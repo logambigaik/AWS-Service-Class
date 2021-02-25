@@ -71,16 +71,15 @@
 
 ![image](https://user-images.githubusercontent.com/54719289/109049799-aeb80b80-76fe-11eb-9410-78808d90b233.png)
 
-  Create Function 
-  
-![image](https://user-images.githubusercontent.com/54719289/109050026-f76fc480-76fe-11eb-84b3-961ab42a36be.png)
+  Create Function with newly cretaed role
+ 
+ ![image](https://user-images.githubusercontent.com/54719289/109227524-768bf800-77e6-11eb-83e4-abde058671d0.png)
 
-  Without AWSLambdaBasicExecutionRole:
+  Double click lambda_function.py,
+
+![image](https://user-images.githubusercontent.com/54719289/109227641-a5a26980-77e6-11eb-9a0d-b4c53ab5257e.png)
+
   
-  ![image](https://user-images.githubusercontent.com/54719289/109053108-5e42ad00-7702-11eb-910f-de0ca88996ba.png)
-  
-  
-  https://aws.amazon.com/premiumsupport/technology/personal-health-dashboard/
 
 
 
