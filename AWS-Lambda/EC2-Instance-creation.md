@@ -19,7 +19,7 @@ Create EC2 Instance using AWS lambda function:
     REGION = 'eu-west-2
 
 
-# Create Lambda function with EC2-Full Access :
+# Create Lambda function with EC2-Full Access -role :
 
 ![image](https://user-images.githubusercontent.com/54719289/109344675-0d16f280-7895-11eb-9dbc-33359c9c4ebf.png)
 
@@ -27,3 +27,13 @@ Create EC2 Instance using AWS lambda function:
 # Write the function and using Deploy save it. Test the code :
 
 ![image](https://user-images.githubusercontent.com/54719289/109344736-27e96700-7895-11eb-8d5d-7350ce54f3fb.png)
+
+
+# Result:
+
+![image](https://user-images.githubusercontent.com/54719289/109345368-089f0980-7896-11eb-8412-fb297cd32fc3.png)
+
+
+# EC2-Instance:
+
+![image](https://user-images.githubusercontent.com/54719289/109345509-44d26a00-7896-11eb-9a62-7ddfffa13696.png)
