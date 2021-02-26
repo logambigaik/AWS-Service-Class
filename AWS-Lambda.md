@@ -84,10 +84,55 @@
     
         sns.publish(TopicArn=topic_arn,Message=message)
         print('Topic Arn'+str(topic_arn))
+        
+        
+# Function creation in Lambda:
+
+![image](https://user-images.githubusercontent.com/54719289/109340656-4e0c0880-788f-11eb-97ba-dc26c7313137.png)
+
+# Check the mail for notification
+
+
+
+Create EC2 Instance using AWS lambda function:
+=============================================
+
+
+# Step 1 : EC2 Instance creation values:
+
+  First copy the  name of key-value pair : (my case Archu-acc)
+
+![image](https://user-images.githubusercontent.com/54719289/109344249-79ddbd00-7894-11eb-9f7f-c6432dfcef1a.png)
+
+  Copy the AMI ,region and instance_type
+  
+![image](https://user-images.githubusercontent.com/54719289/109344506-d3de8280-7894-11eb-9861-6ecfbd3077b3.png)
+
+
+    AMI = 'ami-0ffd774e02309201f'
+    INSTANCE_TYPE = 't2.micro'
+    KEY_NAME = 'Archu-acc'
+    REGION = 'eu-west-2
+
+
+# Create Lambda function with EC2-Full Access :
+
+![image](https://user-images.githubusercontent.com/54719289/109344675-0d16f280-7895-11eb-9dbc-33359c9c4ebf.png)
+
+
+# Write the function and using Deploy save it. Test the code :
+
+![image](https://user-images.githubusercontent.com/54719289/109344736-27e96700-7895-11eb-8d5d-7350ce54f3fb.png)
 
 
 
 
+
+
+
+
+
+  
 
   
 
