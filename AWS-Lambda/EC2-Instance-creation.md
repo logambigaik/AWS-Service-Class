@@ -34,6 +34,11 @@ Create EC2 Instance using AWS lambda function:
 ![image](https://user-images.githubusercontent.com/54719289/109345368-089f0980-7896-11eb-8412-fb297cd32fc3.png)
 
 
+# Reference:
+
+https://bangmetric.com/creating-an-ec2-instance-with-lambda-in-aws/
+
+
 # EC2-Instance:
 
 ![image](https://user-images.githubusercontent.com/54719289/109345509-44d26a00-7896-11eb-9a62-7ddfffa13696.png)
