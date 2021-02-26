@@ -68,6 +68,23 @@
 
 # For SNS and EC2 function update the below code (reference link: https://aws.amazon.com/premiumsupport/knowledge-center/start-stop-lambda-cloudwatch/)
 
+    import boto3
+    region = 'eu-west-2'
+    instances = ['i-0e68334cc3ec4791a']
+    ec2 = boto3.client('ec2', region_name=region)
+
+    topic_arn='arn:aws:sns:eu-west-2:136962450893:ec2-stop-alert'
+    message = 'ec2 stopped alert'
+
+    sns = boto3.client('sns')
+
+    def lambda_handler(event, context):
+        ec2.stop_instances(InstanceIds=instances)
+        print('stopped your instances: ' + str(instances))
+    
+        sns.publish(TopicArn=topic_arn,Message=message)
+        print('Topic Arn'+str(topic_arn))
+
 
 
 
