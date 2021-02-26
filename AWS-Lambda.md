@@ -84,19 +84,22 @@
   
  ![image](https://user-images.githubusercontent.com/54719289/109230610-24010a80-77eb-11eb-91b0-7864bb38d28c.png)
  
- Cloudwatch event for our function(default):
- 
- ![image](https://user-images.githubusercontent.com/54719289/109230745-5c084d80-77eb-11eb-8319-5ff5cc3d0a87.png)
-
-
-  Click Add Trigger:
   
-  ![image](https://user-images.githubusercontent.com/54719289/109230822-81955700-77eb-11eb-99a0-2d36ef5939ee.png)
+    Update Permission inside the function:
+    
+![image](https://user-images.githubusercontent.com/54719289/109321174-df22b580-7876-11eb-9830-e8a48575e322.png)
 
 
-  Lambda trigger:
-  
-  ![image](https://user-images.githubusercontent.com/54719289/109231131-01bbbc80-77ec-11eb-87f1-02a9a57060a7.png)
+![image](https://user-images.githubusercontent.com/54719289/109321512-39bc1180-7877-11eb-9b4c-1d9507cf2cf4.png)
+
+  # Create new IAM role with Lambda:
+
+![image](https://user-images.githubusercontent.com/54719289/109321666-712abe00-7877-11eb-8bff-e96c85c8eb3b.png)
+![image](https://user-images.githubusercontent.com/54719289/109322055-d8487280-7877-11eb-83fd-aa8a516c93bc.png)
+![image](https://user-images.githubusercontent.com/54719289/109322189-01690300-7878-11eb-8bde-b4e447929085.png)
+![image](https://user-images.githubusercontent.com/54719289/109322347-3412fb80-7878-11eb-97b4-a5a73410cc18.png)
+![image](https://user-images.githubusercontent.com/54719289/109322685-97049280-7878-11eb-856f-195baae5e0e9.png)
+
 
 
 
