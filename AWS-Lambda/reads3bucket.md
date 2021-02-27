@@ -17,6 +17,7 @@
 
 ![image](https://user-images.githubusercontent.com/54719289/109402582-f2b84400-797c-11eb-92b7-d6d441dbd3a8.png)
 
+  This tree  structure  helps you to do the  code logic like ==> bucket_name=event['Records'][0]['s3']['bucket']['name']
 
 # S3 bucket uploaded:
 
