@@ -28,4 +28,7 @@
 ![image](https://user-images.githubusercontent.com/54719289/109402447-f4cdd300-797b-11eb-81fd-73601260b0df.png)
 
 
+# with ucket_name=event['Records'][0]['s3']['bucket']['name']
+
+![image](https://user-images.githubusercontent.com/54719289/109402986-6445c180-7980-11eb-952e-22c810a4f2af.png)
 
