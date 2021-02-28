@@ -2,7 +2,7 @@ import boto3
  
 AMI = 'ami-0ffd774e02309201f'
 INSTANCE_TYPE = 't2.micro'
-KEY_NAME = 'Archu-acc'
+KEY_NAME = 'A***-**'
 REGION = 'eu-west-2' 
  
 ec2 = boto3.client('ec2', region_name=REGION)
